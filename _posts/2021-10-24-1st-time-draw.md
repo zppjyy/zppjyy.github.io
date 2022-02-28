@@ -3,7 +3,7 @@ layout: post
 title:  "第一次一起去画室"
 description: 我就说为什么一个素描的教室里会有一个油画架，原来是女朋友专用 哈哈哈
 date:   2021-10-24 10:00:00 +0530
-categories: draw
+categories: draw 第一次
 img: 1st-time-draw-zppjyy.JPG
 categories: [one, two]
 color: 1976D2
