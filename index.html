@@ -11,7 +11,7 @@ layout: default
           <div class="container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%Y年%b月%d日' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
+             <div class="action">{{ post.date | date: '%Y年%m月%d日' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
    {% endfor %}
