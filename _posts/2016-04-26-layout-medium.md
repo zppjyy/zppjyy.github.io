@@ -10,6 +10,7 @@ color: 03A9F4
 author: webjeda
 permalink: /medium/
 width: medium
+published: false
 ---
 There are 3 types of layouts available for posts and pages. A page can be set to medium width by adding front matter ``medium`` as shown.
 

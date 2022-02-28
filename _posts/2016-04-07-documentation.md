@@ -5,6 +5,7 @@ description: Learn how to install and use this theme. This document will be upda
 img: image-10.jpg
 color: 212121
 author: webjeda
+published: false
 ---
 
 * some text
