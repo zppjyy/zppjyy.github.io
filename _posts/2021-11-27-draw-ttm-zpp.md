@@ -10,6 +10,4 @@ color: 1976D2
 author: jyy
 ---
 zpp参考图：
-![这是图片](https://river-1253540008.cos.ap-guangzhou.myqcloud.com/cp100/draw-ttm-origin03.JPG "draw-ttm-origin03.JPG")
-zpp用python画出来的图：
-![这是图片](https://river-1253540008.cos.ap-guangzhou.myqcloud.com/cp100/draw-ttm-zpp.JPG "draw-ttm-zpp.JPG")
+![这是图片](https://river-1253540008.cos.ap-guangzhou.myqcloud.com/cp100/draw-ttm-origin03.JPG "draw-ttm-origin03")
