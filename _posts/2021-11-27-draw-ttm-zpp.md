@@ -6,7 +6,7 @@ date:   2021-11-27 11:04:00 +0530
 categories: draw
 img: draw-ttm-zpp.JPG
 categories: [one, two]
-color: 1976D2
+color: 4CAF50
 author: jyy
 ---
 zpp参考图：

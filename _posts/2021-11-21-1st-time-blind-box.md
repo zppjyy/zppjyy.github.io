@@ -6,6 +6,6 @@ date:   2021-11-21 00:00:00 +0530
 categories: 第一次
 img: 1st-time-blind-box.jpg
 categories: [one, two]
-color: 1976D2
+color: 00897B
 author: jyy
 ---

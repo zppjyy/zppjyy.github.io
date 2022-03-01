@@ -6,6 +6,6 @@ date:   2022-02-05 23:57:00 +0530
 categories: draw
 img: draw-bdd-jyy.png
 categories: [one, two]
-color: 1976D2
+color: FF6F00
 author: jyy
 ---

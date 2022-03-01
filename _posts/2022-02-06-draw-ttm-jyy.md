@@ -6,7 +6,7 @@ date:   2022-02-06 17:57:00 +0530
 categories: draw
 img: draw-ttm-jyy.PNG
 categories: [one, two]
-color: 1976D2
+color: 212121
 author: jyy
 ---
 jyy参考的图一：

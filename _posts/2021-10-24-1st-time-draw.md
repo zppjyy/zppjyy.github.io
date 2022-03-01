@@ -6,7 +6,7 @@ date:   2021-10-24 10:00:00 +0530
 categories: draw 第一次
 img: 1st-time-draw-zppjyy.JPG
 categories: [one, two]
-color: 1976D2
+color: 37474F
 author: jyy
 ---
 认真画图的zpp：

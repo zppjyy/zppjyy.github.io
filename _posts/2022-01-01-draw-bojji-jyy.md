@@ -6,6 +6,6 @@ date:   2022-01-01 11:56:00 +0530
 categories: draw
 img: draw-bojji-jyy.PNG
 categories: [one, two]
-color: 1976D2
+color: ff1744 
 author: jyy
 ---
