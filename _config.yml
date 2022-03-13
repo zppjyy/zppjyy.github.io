@@ -32,6 +32,12 @@ analytics: UA-83979019-1
 include: [_pages]
 version: 0.8
 
+collections:
+  loves:
+    output: true
+  menus:
+    output: true
+
 plugins: 
     - jekyll-paginate
     - jekyll-seo-tag

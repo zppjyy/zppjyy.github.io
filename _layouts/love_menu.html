@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="container">
 <div id="grid" data-columns class="cols">
-    {% for post in site.menus %}
+    {% for post in site.loves %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}
           <img class="feat-image" src={{ "https://river-1253540008.cos.ap-guangzhou.myqcloud.com/cp100/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
